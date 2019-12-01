@@ -1,0 +1,15 @@
+[package]
+name = "from_file_paralell"
+version = "0.1.0"
+authors = ["oliverwilliams"]
+edition = "2018"
+
+[dependencies]
+rand = "0.7.2"
+rayon = "1.2.0"
+
+[profile.dev]
+opt-level = 0
+
+[profile.release]
+opt-level = 3
