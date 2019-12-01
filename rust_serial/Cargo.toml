@@ -1,0 +1,7 @@
+[package]
+name = "serial_from_file"
+version = "0.1.0"
+authors = ["oliverwilliams"]
+edition = "2018"
+
+[dependencies]
