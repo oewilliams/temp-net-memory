@@ -1,0 +1,1 @@
+This folder contains the main file, module files and TOML file for the compilation of the paralell rust version of the program.
